@@ -1,0 +1,10 @@
+id,folder_name,title,difficulty,tags,active,topic
+q1,question_01,Netflix - Timebucket Watch Stats,Easy,"pandas,groupby,aggregation",TRUE,Aggregations
+q2,question_02,Common Words Between Two Sentences,Medium,"pandas,spliting",TRUE,Ranking
+q3,question_03,Palindrome Check,Easy,"string manipulation,apply,regex",TRUE,Text Processing
+q4,question_04,Group Anagrams,Medium,"dictionary,groupby,string sorting",TRUE,Text Processing
+q5,question_05,Reverse Each Word in a String,Easy,"string manipulation,apply,splitting",TRUE,Text Processing
+q6,question_06,High Frequency Words per Hourly Bucket,Hard,"json parsing,datetime,groupby,collections.Counter,regex",TRUE,Time Series
+q7,question_07,EOQ and Inventory Simulation with Stochastic Lead Time,Hard,"EOQ,simulation,stochastic modeling,matplotlib",TRUE,Inventory Analytics
+q8,question_08,Simple Anomaly Flag on Daily GMV,Easy,"zscore,statistics,filtering,file io",TRUE,Ecommerce Analytics
+

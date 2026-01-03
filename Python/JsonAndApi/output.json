@@ -1,0 +1,15 @@
+{
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "address": {
+        "street": "123 Maple Avenue",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62704"
+    },
+    "tags": [
+        "engineer",
+        "remote",
+        "verified"
+    ]
+}
